@@ -173,7 +173,7 @@ MIT License
 
 如有问题或建议，请通过以下方式联系：
 - GitHub Issues
-- 邮件：your_email@example.com
+- 邮件：13753054107@163.com
 
 ---
 
